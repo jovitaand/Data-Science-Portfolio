@@ -1,5 +1,3 @@
-# Data-Science-Portfolio
-
 # From Software Engineer to Data Scientist: My Journey through Syracuse University’s Applied Data Science Program
 
 ![Engineer or Scientist](image.png)
