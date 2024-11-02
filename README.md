@@ -53,9 +53,9 @@ These experiences have prepared me well for data science roles, equipping me wit
 The Master’s in Applied Data Science has been a transformative experience. It provided a well-rounded foundation in data science, combining rigorous academics with hands-on projects that spanned from business analytics to AI. I leave this program with a profound appreciation for data’s potential and the ethical responsibilities it entails, fully prepared to make a meaningful impact in my field.
 
 ## References
-!(https://github.com/jovitaand/Sentimental-Analysis-on-Movie-Reviews-)
-![NBA Analytics](https://github.com/jovitaand/NBA-Analytics)
-![Text to Speech Converter](https://github.com/jovitaand/Cloud-Management)
-![Crime Classification based on Geographical Area](https://github.com/jovitaand/Crime-Classification-based-on-Geographical-Area)
-![NYC Taxi Trip Analysis](https://github.com/jovitaand/NYC-Taxi-Trip-Analysis)
+https://github.com/jovitaand/Sentimental-Analysis-on-Movie-Reviews-
+https://github.com/jovitaand/NBA-Analytics
+https://github.com/jovitaand/Cloud-Management
+https://github.com/jovitaand/Crime-Classification-based-on-Geographical-Area
+https://github.com/jovitaand/NYC-Taxi-Trip-Analysis
 
