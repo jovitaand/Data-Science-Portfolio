@@ -2,7 +2,7 @@
 
 # From Software Engineer to Data Scientist: My Journey through Syracuse University’s Applied Data Science Program
 
-![Engineer or Scientist](sdetoads.png)
+![Engineer or Scientist](image.png)
 
 Transitioning from Computer Science and Engineering to a career in Applied Data Science has been a transformative experience, shaped by my time at Syracuse University's iSchool. This portfolio highlights my journey through the Master’s in Applied Data Science program, detailing the skills I gained and the projects I completed that prepared me for the data-driven world. Here’s a look at what led me to choose this degree, the program’s impact, and the real-world applications of my learning.
 
